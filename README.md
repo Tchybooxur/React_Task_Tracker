@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# Getting Started with Create React App  
+
+
+Quick snapshot of the completed app is shown below:  
+  
+![taskTracker](https://raw.githubusercontent.com/Tchybooxur/React_Task_Tracker/946591dcb52e186750c342b0ab83fea24c829134/public/Task%20tracker%20snapshot.png)  
+  
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -69,6 +75,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)  
   
-Quick snapshot of the completed app is shown below:  
   
-![taskTracker](https://raw.githubusercontent.com/Tchybooxur/React_Task_Tracker/946591dcb52e186750c342b0ab83fea24c829134/public/Task%20tracker%20snapshot.png)
